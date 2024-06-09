@@ -20,7 +20,7 @@
 ## Skills :computer:
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,c,html,css,mysql,eclipse,vscode,git,github,linux,octave,r,autocad,htmx,powershell" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,c,html,css,mysql,eclipse,vscode,git,github,linux,octave,r,htmx,powershell" />
   </a>
 </div>
 
