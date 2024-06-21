@@ -1,4 +1,4 @@
-# Hello, I,m Sergio Orgaz 👋
+# Hello, I'm Sergio Orgaz 👋
 ## About Me :technologist:
 <ul>
   <li>:notebook_with_decorative_cover: Web Application Development Student at IES Augustóbriga</li>
