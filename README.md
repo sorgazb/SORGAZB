@@ -18,6 +18,27 @@
 </div>
 
 ## Skills :computer:
+
+<table>
+  <tr>
+    <th>ENVIRONMENT</th>
+    <th>TECHNOLOGIES</th>
+  </tr>
+  <tr>
+    <td>FRONTEND</td>
+    <td></td>
+  </tr>
+  <tr>
+    <th>BACKEND</th>
+    <th></th>
+  </tr>
+  <tr>
+    <th>TOOLS</th>
+    <th></th>
+  </tr>
+</table>
+
+
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,java,html,css,mysql,eclipse,vscode,git,github,linux,htmx,powershell,js,nodejs" />
