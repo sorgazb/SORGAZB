@@ -34,7 +34,11 @@
   </tr>
   <tr>
     <th>TOOLS</th>
-    <th></th>
+    <th>
+      <a>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,eclipse,vscode,linux" />
+      </a>
+    </th>
   </tr>
 </table>
 
