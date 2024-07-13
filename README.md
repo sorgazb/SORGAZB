@@ -25,6 +25,11 @@
 </div>
 
 ## My statistics :medal_sports:
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sorgazb&show_icons=true&locale=en&layout=compact&line_height=20&theme=radical"/>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sorgazb&show_icons=true&locale=en&layout=compact&line_height=20&theme=react"/>
+</div>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sorgazb&theme=react&rank_icon=github"/>
+</div>
 
 
