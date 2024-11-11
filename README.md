@@ -20,6 +20,32 @@
 ## Skills :computer:
 
 <div align="center">
+  <table>
+    <tr>
+      <th>Environment</th>
+      <th>Technologies</th>
+    </tr>
+    <tr>
+      <th>Frontend</th>
+    <th>
+      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap"/>
+    </th>
+    </tr>
+    <tr>
+      <th>Backend</th>
+      <th>
+        <img src="https://skillicons.dev/icons?i=cpp,java,php,nodejs,golang">
+      </th>
+    </tr>
+    <tr>
+      <th>Tools</th>
+      <th>
+        <img src="https://skillicons.dev/icons?i=eclipse,vscode,git,github,linux,idea,spring">
+      </th>
+    </tr>
+  </table>
+
+  
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,java,html,css,mysql,eclipse,vscode,git,github,linux,htmx,powershell,js,nodejs,git,github,eclipse,vscode,linux,bootstrap,golang,mongodb,idea,maven,spring,php"/>
   </a>
