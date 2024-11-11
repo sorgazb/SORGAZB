@@ -40,15 +40,16 @@
     <tr>
       <th>Tools</th>
       <th>
-        <img src="https://skillicons.dev/icons?i=eclipse,vscode,git,github,linux,idea,spring">
+        <img src="https://skillicons.dev/icons?i=eclipse,vscode,git,github,linux,idea,spring,powershell,maven">
+      </th>
+    </tr>
+    <tr>
+      <th>Databases</th>
+      <th>
+        <img src="https://skillicons.dev/icons?i=mongodb,mysql">
       </th>
     </tr>
   </table>
-
-  
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,html,css,mysql,eclipse,vscode,git,github,linux,htmx,powershell,js,nodejs,git,github,eclipse,vscode,linux,bootstrap,golang,mongodb,idea,maven,spring,php"/>
-  </a>
 </div>
 
 ## My statistics :medal_sports:
