@@ -34,7 +34,7 @@
     <tr>
       <th>Backend</th>
       <th>
-        <img src="https://skillicons.dev/icons?i=cpp,java,php,nodejs,golang">
+        <img src="https://skillicons.dev/icons?i=cpp,java,php,laravel,nodejs,golang">
       </th>
     </tr>
     <tr>
