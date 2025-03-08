@@ -28,7 +28,7 @@
     <tr>
       <th>Frontend</th>
     <th>
-      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,angular,react,jquery,tailwind"/>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,angular,react,jquery,tailwind"/>
     </th>
     </tr>
     <tr>
@@ -40,7 +40,7 @@
     <tr>
       <th>Tools</th>
       <th>
-        <img src="https://skillicons.dev/icons?i=eclipse,vscode,git,github,linux,idea,spring,powershell,maven">
+        <img src="https://skillicons.dev/icons?i=eclipse,vscode,git,github,linux,idea,spring,powershell,maven,aws,gcp">
       </th>
     </tr>
     <tr>
