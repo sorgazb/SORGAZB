@@ -28,7 +28,7 @@
     <tr>
       <th>Frontend</th>
     <th>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,angular,react,jquery,tailwind"/>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,angular,react,astro,jquery,tailwind"/>
     </th>
     </tr>
     <tr>
