@@ -40,7 +40,7 @@
     <tr>
       <th>Tools</th>
       <th>
-        <img src="https://skillicons.dev/icons?i=eclipse,vscode,git,github,linux,idea,spring,powershell,maven,aws,gcp">
+        <img src="https://skillicons.dev/icons?i=eclipse,vscode,git,github,linux,idea,spring,powershell,maven,aws,gcp,vercel">
       </th>
     </tr>
     <tr>
